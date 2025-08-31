@@ -1,0 +1,6 @@
+{
+  "name": "Solana Test Token",
+  "symbol": "STT",
+  "description": "A test token on Solana Devnet",
+  "image": "https://raw.githubusercontent.com/saqibzahoor-dev/solana-token-metadata/main/stt.png"
+}
